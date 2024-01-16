@@ -197,25 +197,29 @@ padding: 24px 500px;
     margin:110px auto;
 }
 .card-3{
-    width: 573px;
+    width: 540px;
     height: 284px;
     border-radius: 16px;
 border: 1px solid rgba(233, 68, 68, 0.20);
 background: rgba(233, 68, 68, 0.05);
+padding: 32px;
+margin-left: 100px;
 }
 .card-1{
-    width: 573px;
+    width: 540px;
 height: 284px;
     border-radius: 16px;
 border: 1px solid rgba(251, 181, 99, 0.20);
 background: rgba(251, 181, 99, 0.05);
+padding: 32px;
 }
 .card-2{
-    width: 573px;
+    width: 540px;
 height: 284px;
     border-radius: 16px;
 border: 1px solid rgba(41, 206, 246, 0.20);
 background: rgba(41, 206, 246, 0.05);
+padding: 32px;
 
 }
 
