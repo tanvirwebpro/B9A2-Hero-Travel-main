@@ -179,7 +179,45 @@ font-weight: 400;
 line-height: 26px; /* 162.5% */
 padding: 24px 500px;
 }
+.card-container img{
+    max-width: 50px;
+    max-height: 50px;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+    
+    
+}
+.choose{
+    margin: 100px auto;
+    border: 3px solid red;
+    max-width: 1250px;
+    margin:110px auto;
+}
+.card-3{
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+border: 1px solid rgba(233, 68, 68, 0.20);
+background: rgba(233, 68, 68, 0.05);
+}
+.card-1{
+    width: 573px;
+height: 284px;
+    border-radius: 16px;
+border: 1px solid rgba(251, 181, 99, 0.20);
+background: rgba(251, 181, 99, 0.05);
+}
+.card-2{
+    width: 573px;
+height: 284px;
+    border-radius: 16px;
+border: 1px solid rgba(41, 206, 246, 0.20);
+background: rgba(41, 206, 246, 0.05);
 
+}
 
 
 
