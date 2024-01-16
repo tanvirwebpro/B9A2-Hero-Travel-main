@@ -1,0 +1,149 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Merriweather:wght@700&family=Mulish:wght@400;800&family=Open+Sans:wght@800&family=Work+Sans:wght@400;600;700;800&display=swap');
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+header{
+  
+}
+
+.nav-section{
+    max-width: 1250px;
+    margin: 0 auto;
+    
+    margin: o auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+}
+.nav-container{
+   
+    min-height: 25px;
+    display: flex;
+    width: 50%;
+
+}
+.item-container{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+.item-container > a {
+    text-decoration:none ;
+    color: var(--Dark-02, #424247);
+
+font-family: Mulish;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.home{
+color: #FF5400;
+font-family: Mulish;
+font-size: 18px;
+font-weight: 700;
+
+}
+.nav-title{
+    color: #131318;
+font-family: Mulish;
+font-size: 2.1rem;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.nav-title-2{
+    color: #FF5400;
+font-family: Mulish;
+font-size: 2.1rem;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.banner{
+    background-image: url('/Images/banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1170px;
+height: 500px;
+flex-shrink: 0;
+position: relative;
+text-align: center;
+align-items: center;
+    
+}
+.popular-container{
+    display: flex;
+    gap: 3.3rem;
+   width: 100%;
+    border: 2px solid rgb(81, 255, 0);
+
+}
+.popular-text-section li{
+    margin-bottom: 25px
+
+}  
+.popular-title{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 2.5rem;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.text-description{
+    color: rgba(19, 19, 24, 0.70);
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+.btn-primary{
+    border-radius: 8px;
+background: #FF5400;
+border: none;
+color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 20px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding: 14px 35px;
+}
+.popular-img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
