@@ -11,9 +11,12 @@
     }
     .nav-section{
         flex-direction: column;
+        margin: 0px auto;
+        justify-content: center;
     }
     .popular-img{
         width: inherit;
     }
+  
     
 }
