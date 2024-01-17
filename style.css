@@ -5,9 +5,6 @@ body{
     font-family: 'Mulish', sans-serif;
 }
 
-header{
-  
-}
 
 .nav-section{
     max-width: 1250px;
@@ -75,7 +72,6 @@ line-height: normal;
 
 }
 
-}
 .popular-text-section li{
     margin-bottom: 25px
 
@@ -186,8 +182,9 @@ padding: 24px 500px;
 .card-container{
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    gap: 30px;
-    
+    gap: 10px;
+    justify-content: center;
+    margin-top: 100px;
     
 }
 .choose{
@@ -203,7 +200,8 @@ padding: 24px 500px;
 border: 1px solid rgba(233, 68, 68, 0.20);
 background: rgba(233, 68, 68, 0.05);
 padding: 32px;
-margin-left: 100px;
+margin-left: 50%;
+
 }
 .card-1{
     width: 540px;
